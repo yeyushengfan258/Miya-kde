@@ -30,7 +30,7 @@
      id="defs22">
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient19856"
+       xlink:href="#linearGradient1780"
        id="radialGradient861"
        cx="11"
        cy="38"
@@ -56,7 +56,7 @@
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient7728"
+       xlink:href="#linearGradient19856"
        id="radialGradient4200"
        cx="11"
        cy="38"
@@ -66,19 +66,19 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient7728">
+       id="linearGradient1780">
       <stop
-         style="stop-color:#ff4033;stop-opacity:1"
+         style="stop-color:#9001fe;stop-opacity:1"
          offset="0"
-         id="stop7730" />
+         id="stop1774" />
       <stop
-         style="stop-color:#ff4033;stop-opacity:1"
+         style="stop-color:#9001fe;stop-opacity:1"
          offset="0.69999999"
-         id="stop15456" />
+         id="stop1776" />
       <stop
-         style="stop-color:#ff1d00;stop-opacity:1"
+         style="stop-color:#6401b1;stop-opacity:1"
          offset="1"
-         id="stop7726" />
+         id="stop1778" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -91,14 +91,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="936"
      id="namedview20"
      showgrid="true"
      inkscape:zoom="7.5853275"
-     inkscape:cx="-16.149599"
-     inkscape:cy="58.534058"
+     inkscape:cx="-6.2620895"
+     inkscape:cy="35.001785"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306"
      inkscape:pagecheckerboard="0">
@@ -118,7 +118,7 @@
      id="active-center"
      style="enable-background:new">
     <circle
-       style="opacity:0.5;fill:#b4b4b4;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:1;fill:#9001fe;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="path883"
        cx="11"
        cy="11"
@@ -137,7 +137,7 @@
      transform="translate(27)"
      style="enable-background:new">
     <circle
-       style="opacity:0.5;fill:#878787;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:0.6;fill:#9001fe;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="circle1701"
        cx="11"
        cy="11"
@@ -156,7 +156,7 @@
      transform="translate(54)"
      style="enable-background:new">
     <circle
-       style="opacity:0.5;fill:#878787;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:0.6;fill:#9001fe;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="circle1921"
        cx="11"
        cy="11"
@@ -174,7 +174,7 @@
      id="hover-center"
      style="enable-background:new">
     <circle
-       style="opacity:1;fill:url(#radialGradient861);fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:1;fill:url(#radialGradient861);fill-opacity:1.0;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="circle960"
        cx="11"
        cy="38"
@@ -236,7 +236,7 @@
      transform="translate(0,27)"
      style="enable-background:new">
     <circle
-       style="opacity:1;fill:url(#radialGradient4200);fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:1;fill:url(#radialGradient4200);fill-opacity:1.0;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="circle4176"
        cx="11"
        cy="38"

@@ -113,14 +113,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1005"
+     inkscape:window-height="936"
      id="namedview25"
      showgrid="true"
      inkscape:zoom="10.727273"
-     inkscape:cx="27.360169"
-     inkscape:cy="7.6440677"
+     inkscape:cx="25.961864"
+     inkscape:cy="24.656779"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4306"
      inkscape:pagecheckerboard="0"
@@ -143,7 +143,7 @@
   <g
      id="active-center">
     <circle
-       style="opacity:0.5;fill:#b4b4b4;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:1;fill:#ff3042;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="path883"
        cx="11"
        cy="11"
@@ -233,7 +233,7 @@
      id="deactivated-center"
      transform="translate(27)">
     <circle
-       style="opacity:0.5;fill:#878787;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:0.6;fill:#ff3042;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="circle1701"
        cx="11"
        cy="11"
@@ -251,7 +251,7 @@
      id="inactive-center"
      transform="translate(54)">
     <circle
-       style="opacity:0.5;fill:#878787;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
+       style="opacity:0.6;fill:#ff3042;fill-opacity:1;fill-rule:evenodd;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.768627;paint-order:stroke fill markers"
        id="circle1921"
        cx="11"
        cy="11"

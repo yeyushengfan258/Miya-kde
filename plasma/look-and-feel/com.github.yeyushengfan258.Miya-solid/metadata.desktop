@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Miya-solid theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Miya-solid
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=yeyushengfan258
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=com.github.yeyushengfan258.Miya-solid
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Miya-solid-kde
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1715698,kns://plasma-themes.knsrc/api.kde-look.org/1739067,kns://aurorae.knsrc/api.kde-look.org/1715697,kns://icons.knsrc/api.kde-look.org/1715694,kns://wallpaper.knsrc/api.kde-look.org/1715696,kns://sddmtheme.knsrc/api.kde-look.org/1715700,kns://xcursor.knsrc/api.kde-look.org/1628952
+X-Plasma-MainScript=defaults

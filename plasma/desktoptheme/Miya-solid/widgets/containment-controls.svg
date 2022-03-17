@@ -2,11 +2,11 @@
  <defs>
   <linearGradient id="a">
    <stop stop-color="#1f34cb" offset="0"/>
-   <stop stop-color="#5657f5" offset="1"/>
+   <stop stop-color="#503cff" offset="1"/>
   </linearGradient>
   <linearGradient id="b">
    <stop stop-color="#007584" offset="0"/>
-   <stop stop-color="#5657f5" offset="1"/>
+   <stop stop-color="#503cff" offset="1"/>
   </linearGradient>
   <linearGradient id="i" x1="266" x2="266" y1="108" y2="112" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
   <linearGradient id="h" x1="115" x2="115" y1="103" y2="107" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
@@ -14,7 +14,7 @@
   <linearGradient id="f" x1="101" x2="101" y1="118" y2="114" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="e" x1="268" x2="268" y1="112" y2="108" gradientUnits="userSpaceOnUse">
    <stop stop-color="#00626d" offset="0"/>
-   <stop stop-color="#5657f5" offset="1"/>
+   <stop stop-color="#503cff" offset="1"/>
   </linearGradient>
   <linearGradient id="d" x1="91" x2="95" y1="80.5" y2="80.5" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
   <linearGradient id="c" x1="106" x2="102" y1="67" y2="67" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
@@ -86,16 +86,16 @@
  <g id="horizontal-centerindicator" transform="translate(-4,17)">
   <path class="ColorScheme-Background" transform="rotate(-90)" d="m-31 8h42v1h-42z" fill="#ffffff" opacity=".25"/>
  </g>
- <rect id="south-center" class="ColorScheme-ButtonText" x="97" y="31" width="10" height="12" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="south-bottom" class="ColorScheme-ButtonText" x="97" y="43" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="south-top" class="ColorScheme-ButtonText" x="97" y="30" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="north-center" class="ColorScheme-ButtonText" x="97" y="11" width="10" height="12" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="north-bottom" class="ColorScheme-ButtonText" x="97" y="23" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="north-top" class="ColorScheme-ButtonText" x="97" y="10" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="west-center" class="ColorScheme-ButtonText" transform="rotate(90)" x="55" y="-110" width="10" height="12" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="west-left" class="ColorScheme-ButtonText" transform="rotate(90)" x="55" y="-98" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="west-right" class="ColorScheme-ButtonText" transform="rotate(90)" x="55" y="-111" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="east-center" class="ColorScheme-ButtonText" transform="rotate(90)" x="68" y="-110" width="10" height="12" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="east-left" class="ColorScheme-ButtonText" transform="rotate(90)" x="68" y="-98" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
- <rect id="east-right" class="ColorScheme-ButtonText" transform="rotate(90)" x="68" y="-111" width="10" height="1" color="#31363b" fill="#5657f5" opacity=".8"/>
+ <rect id="south-center" class="ColorScheme-ButtonText" x="97" y="31" width="10" height="12" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="south-bottom" class="ColorScheme-ButtonText" x="97" y="43" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="south-top" class="ColorScheme-ButtonText" x="97" y="30" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="north-center" class="ColorScheme-ButtonText" x="97" y="11" width="10" height="12" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="north-bottom" class="ColorScheme-ButtonText" x="97" y="23" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="north-top" class="ColorScheme-ButtonText" x="97" y="10" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="west-center" class="ColorScheme-ButtonText" transform="rotate(90)" x="55" y="-110" width="10" height="12" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="west-left" class="ColorScheme-ButtonText" transform="rotate(90)" x="55" y="-98" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="west-right" class="ColorScheme-ButtonText" transform="rotate(90)" x="55" y="-111" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="east-center" class="ColorScheme-ButtonText" transform="rotate(90)" x="68" y="-110" width="10" height="12" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="east-left" class="ColorScheme-ButtonText" transform="rotate(90)" x="68" y="-98" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
+ <rect id="east-right" class="ColorScheme-ButtonText" transform="rotate(90)" x="68" y="-111" width="10" height="1" color="#31363b" fill="#503cff" opacity=".8"/>
 </svg>
