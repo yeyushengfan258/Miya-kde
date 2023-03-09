@@ -38,7 +38,8 @@ prompt () {
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
   prompt -i "\n * Install Miya in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/themes/Miya" "${THEME_DIR}"
+  [[ -d "${THEME_DIR}/Miya" ]] && rm -rf "${THEME_DIR}/Miya"
+  cp -r "${REO_DIR}/Miya" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else
@@ -55,5 +56,4 @@ else
     exit 1
   }
 fi
-
 

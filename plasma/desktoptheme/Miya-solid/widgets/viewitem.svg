@@ -5,7 +5,7 @@
    height="161"
    version="1.0"
    sodipodi:docname="viewitem.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,17 +36,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="936"
+     inkscape:window-height="1006"
      id="namedview120"
      showgrid="true"
-     inkscape:zoom="5.9209876"
-     inkscape:cx="58.858424"
-     inkscape:cy="100.40555"
+     inkscape:zoom="8.373541"
+     inkscape:cx="53.860129"
+     inkscape:cy="98.405203"
      inkscape:window-x="0"
-     inkscape:window-y="40"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg176"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#464646">
     <inkscape:grid
        type="xygrid"
        id="grid926" />
@@ -61,7 +63,7 @@
          offset="0"
          id="stop1887" />
       <stop
-         style="stop-color:#503cff;stop-opacity:0;"
+         style="stop-color:#fa9752;stop-opacity:0;"
          offset="1"
          id="stop1889" />
     </linearGradient>
@@ -442,14 +444,14 @@
      id="hover-center"
      class="ColorScheme-Highlight"
      d="M 44 90 L 44 138 L 92 138 L 92 90 L 44 90 z "
-     style="fill-opacity:1;fill:#fa9752" />
+     style="fill-opacity:1;fill:#fafafa;opacity:0.2" />
   <g
      id="hover-left"
      transform="matrix(1,0,0,3,-146.14,-2399.6)"
      style="fill:url(#linearGradient1893);fill-opacity:1">
     <path
        id="path96"
-       style="stroke-width:1.73205;fill-opacity:1;fill:#fa9752"
+       style="stroke-width:1.73205;fill-opacity:1;fill:#fafafa;opacity:0.2"
        class="ColorScheme-Highlight"
        d="M 40 89.980469 L 40 137.98047 L 44 137.98047 L 44 89.980469 L 40 89.980469 z "
        transform="matrix(1,0,0,0.33333333,146.14,799.86667)" />
@@ -457,21 +459,21 @@
   <g
      id="hover-topleft"
      transform="translate(-146.14,-739.86)"
-     style="fill:#503cff">
+     style="fill:#fa9752">
     <path
        id="path101"
        class="ColorScheme-Highlight"
        d="M 42.53125,86 C 41.12625,86 40,87.11595 40,88.53125 V 90 h 4 v -4 z"
        transform="translate(146.14,739.86)"
-       style="fill-opacity:1;fill:#fa9752" />
+       style="fill-opacity:1;fill:#fafafa;opacity:0.2" />
   </g>
   <g
      id="hover-top"
      transform="matrix(0.36641,0,0,1,-25.67,-739.86)"
-     style="fill:#503cff">
+     style="fill:#fa9752">
     <path
        id="path106"
-       style="stroke-width:0.605318;fill-opacity:1;fill:#fa9752"
+       style="stroke-width:0.605318;fill-opacity:1;fill:#fafafa;opacity:0.2"
        class="ColorScheme-Highlight"
        d="M 44 86 L 44 90 L 91.998047 90 L 91.998047 86 L 44 86 z "
        transform="matrix(2.7291832,0,0,1,70.058132,739.86)" />
@@ -479,21 +481,21 @@
   <g
      id="hover-topright"
      transform="translate(-229.14,-739.86)"
-     style="fill:#503cff">
+     style="fill:#fa9752">
     <path
        id="path111"
        class="ColorScheme-Highlight"
        d="M 92 86 L 92 90 L 96 90 L 96 88.53125 C 96 87.12625 94.88405 86 93.46875 86 L 92 86 z "
        transform="translate(229.14,739.86)"
-       style="fill-opacity:1;fill:#fa9752" />
+       style="fill-opacity:1;fill:#fafafa;opacity:0.2" />
   </g>
   <g
      id="hover-right"
      transform="matrix(1,0,0,3,-229.14,-2399.6)"
-     style="fill:#503cff">
+     style="fill:#fa9752">
     <path
        id="path116"
-       style="stroke-width:1.73205;fill-opacity:1;fill:#fa9752"
+       style="stroke-width:1.73205;fill-opacity:1;fill:#fafafa;opacity:0.2"
        class="ColorScheme-Highlight"
        d="M 92 89.980469 L 92 137.98047 L 96 137.98047 L 96 89.980469 L 92 89.980469 z "
        transform="matrix(1,0,0,0.33333333,229.14,799.86667)" />
@@ -594,7 +596,7 @@
        opacity=".25" />
   </g>
   <g
-     fill="#503cff"
+     fill="#fa9752"
      id="g111">
     <g
        id="hover-bottomright"
@@ -604,14 +606,14 @@
          class="ColorScheme-Highlight"
          d="M 92 138 L 92 142 L 93.46875 142 C 94.87375 142 96 140.88405 96 139.46875 L 96 138 L 92 138 z "
          transform="rotate(-180,141.07,483.93)"
-         style="fill-opacity:1;fill:#fa9752" />
+         style="fill-opacity:1;fill:#fafafa;opacity:0.2" />
     </g>
     <g
        id="hover-bottom"
        transform="matrix(-.36641 0 0 -1 161.67 967.86)">
       <path
          id="path153"
-         style="stroke-width:0.605318;fill-opacity:1;fill:#fa9752"
+         style="stroke-width:0.605318;fill-opacity:1;fill:#fafafa;opacity:0.2"
          class="ColorScheme-Highlight"
          d="M 44.001953 138 L 44.001953 142 L 92 142 L 92 138 L 44.001953 138 z "
          transform="matrix(-2.7291832,0,0,-1,441.22704,967.86)" />
@@ -624,7 +626,7 @@
          class="ColorScheme-Highlight"
          d="M 40 138 L 40 139.46875 C 40 140.87375 41.11595 142 42.53125 142 L 44 142 L 44 138 L 40 138 z "
          transform="rotate(-180,182.57,483.93)"
-         style="fill-opacity:1;fill:#fa9752" />
+         style="fill-opacity:1;fill:#fafafa;opacity:0.2" />
     </g>
   </g>
   <g

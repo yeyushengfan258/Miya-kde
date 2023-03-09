@@ -41,7 +41,7 @@ SessionManagementScreen {
     PlasmaComponents.TextField {
         id: userNameInput
         Layout.fillWidth: true
-        Layout.minimumHeight: 32
+        Layout.minimumHeight: 28
         implicitHeight: root.height / 28
         font.family: config.Font || "Noto Sans"
         font.pointSize: usernameFontSize
@@ -55,15 +55,16 @@ SessionManagementScreen {
             textColor: "white"
             placeholderTextColor: "white"
             background: Rectangle {
-                radius: 100
-                color: "#424249"
+                radius: 6
+                border.color: "#ffaa64"
+                border.width: 2
+                color: "#1e1e1e"
             }
         }
     }
 
     PlasmaComponents.TextField {
         id: passwordBox
-        
         Layout.fillWidth: true
         Layout.minimumHeight: 32
         implicitHeight: usernameFontSize * 2.85
@@ -81,10 +82,10 @@ SessionManagementScreen {
             placeholderTextColor: passwordFieldOutlined ? "white" : "white"
             passwordCharacter: config.PasswordFieldCharacter == "" ? "●" : config.PasswordFieldCharacter
             background: Rectangle {
-                radius: 100
-                border.color: "#5657f5"
-                border.width: 1
-                color: "#5657f5"
+                radius: 6
+                border.color: "#ffaa64"
+                border.width: 2
+                color: "#1e1e1e"
             }
         }
 

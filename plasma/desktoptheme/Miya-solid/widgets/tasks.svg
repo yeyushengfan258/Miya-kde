@@ -233,7 +233,7 @@
   <g
      id="focus-bottom"
      transform="matrix(-1,0,0,1,36,12)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(1,-1)"
@@ -268,7 +268,7 @@
        y="18"
        width="3"
        height="3"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect43" />
   </g>
   <g
@@ -288,13 +288,13 @@
        y="18"
        width="3"
        height="3"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect48" />
   </g>
   <g
      id="hover-bottom"
      transform="matrix(-1,0,0,1,36,54)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonHover"
        transform="scale(1,-1)"
@@ -329,12 +329,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect58" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path60" />
   </g>
   <g
@@ -354,12 +354,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect65" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path67" />
   </g>
   <g
@@ -643,7 +643,7 @@
   <g
      id="north-focus-top"
      transform="matrix(-1,0,0,-1,72,51)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonFocus"
        transform="scale(1,-1)"
@@ -678,7 +678,7 @@
        y="18"
        width="3"
        height="3"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect143" />
   </g>
   <g
@@ -698,13 +698,13 @@
        y="18"
        width="3"
        height="3"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect148" />
   </g>
   <g
      id="north-hover-top"
      transform="matrix(-1,0,0,-1,72,93)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonHover"
        transform="scale(1,-1)"
@@ -739,12 +739,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect158" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path160" />
   </g>
   <g
@@ -764,12 +764,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect165" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path167" />
   </g>
   <g
@@ -977,7 +977,7 @@
   <g
      id="west-focus-left"
      transform="matrix(-1 0 0 .84615 107 15.846)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonFocus"
        x="31"
@@ -1087,12 +1087,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect241" />
     <path
        class="ColorScheme-ButtonFocus"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path243" />
   </g>
   <g
@@ -1112,18 +1112,18 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect248" />
     <path
        class="ColorScheme-ButtonFocus"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path250" />
   </g>
   <g
      id="west-hover-left"
      transform="matrix(-1 0 0 .84615 107 57.846)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonHover"
        x="31"
@@ -1156,12 +1156,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect260" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path262" />
   </g>
   <g
@@ -1181,12 +1181,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect267" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path269" />
   </g>
   <g
@@ -1397,7 +1397,7 @@
   <g
      id="east-focus-right"
      transform="matrix(1 0 0 .84615 109 15.846)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonFocus"
        x="31"
@@ -1573,12 +1573,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect358" />
     <path
        class="ColorScheme-ButtonFocus"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path360" />
   </g>
   <g
@@ -1598,18 +1598,18 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect365" />
     <path
        class="ColorScheme-ButtonFocus"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path367" />
   </g>
   <g
      id="east-hover-right"
      transform="matrix(1 0 0 .84615 109 57.846)"
-     fill="#503cff">
+     fill="#fa9752">
     <rect
        class="ColorScheme-ButtonHover"
        x="31"
@@ -1642,12 +1642,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect377" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path379" />
   </g>
   <g
@@ -1667,12 +1667,12 @@
        y="18"
        width="2"
        height="2"
-       fill="#503cff"
+       fill="#fa9752"
        id="rect384" />
     <path
        class="ColorScheme-ButtonHover"
        d="m34 18v3h-3v-1h2v-2z"
-       fill="#503cff"
+       fill="#fa9752"
        id="path386" />
   </g>
   <g
